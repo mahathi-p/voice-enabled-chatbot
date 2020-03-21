@@ -1,7 +1,7 @@
 # FaceFilter Microbot
-When users identified as in "strong moods", even intelligent replies are not always very effective. A creative response that can possibly alter their strong mood positively showing them their Face with filter that is relevant to situation in the conversation.
+When users are identified as in "strong moods", even intelligent replies are not always very effective. A creative response that can possibly alter their strong mood positively showing them their Face with filter that is relevant to situation in the conversation.
 
-Lets see in action sample conversations.
+Let's see in action sample conversations.
 
 <table>
   <tr>
